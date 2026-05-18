@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "ChronosFit - Custom Workout Timer",
+    "slug": "chronosfit",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "chronosfit",
+    "ios": {
+      "bundleIdentifier": "com.wisnu.chronosfit",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.wisnu.chronosfit",
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0A0A"
+      }
+    },
+    "plugins": [
+      "expo-audio"
+    ]
+  }
+}
